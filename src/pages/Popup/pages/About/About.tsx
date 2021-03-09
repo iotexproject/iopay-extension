@@ -11,11 +11,9 @@ export const About = function () {
   return (
     <Container>
       <BackArrowButton onClick={onBack}></BackArrowButton>
-      <Title>Beancount Wallet Version</Title>
-      <Version>8.1.3</Version>
-      <Description>
-        Beancount Wallet is designed and built in California.
-      </Description>
+      <Title>ioPay Extension Wallet</Title>
+      <Version>0.3.0</Version>
+      <Description>ioPay Extension Wallet.</Description>
       <Links>
         <a href="https://beancount.io/page/legal/privacy-policy/">
           Privacy Policy
@@ -26,6 +24,10 @@ export const About = function () {
         <a href="https://beancount.io/">Visit our web site</a>
         <a href="https://t.me/beancount">Contact us</a>
       </Links>
+      <Description>
+        Thanks <a href="https://stargately.com/">Stargately team</a> for their
+        special contribution to this wallet.
+      </Description>
     </Container>
   );
 };

@@ -1,5 +1,5 @@
 {
-  "name": "Beancount Wallet",
+  "name": "ioPay Extension Wallet",
   "permissions": ["storage"],
   "background": {
     "scripts": ["./background.bundle.js"],

@@ -1,7 +1,7 @@
 {
-  "name": "beancount-wallet",
-  "version": "0.2.0",
-  "description": "Beancount Wallet for Crypto Tokens",
+  "name": "iopay-extension-wallet",
+  "version": "0.3.0",
+  "description": "ioPay extension wallet",
   "license": "MIT",
   "repository": {
     "type": "git",
