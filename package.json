@@ -35,9 +35,6 @@
     }
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
   },
   "dependencies": {
     "@ant-design/icons": "^4.2.2",
